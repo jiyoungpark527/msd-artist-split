@@ -17,7 +17,7 @@ artist which are randomly selected including various albums to prevent recording
 
   ... 
   ```
-- `train_size=15, valid_size=18, test_size=20` means that we used 1-15 songs for training, 16-18 songs for validation and 19-20 for testing of each artist.
+- `train_size=15, valid_size=18, test_size=20` means that we used 1-15 songs for training, 16-18 songs for validation and 19-20 songs for testing of each artist.
 
 ## This dataset split was used in following works:
 - **Representation Learning of Music Using Artist Labels** [[pdf](https://arxiv.org/abs/1710.06648), [code](https://github.com/jongpillee/ismir2018-artist)]  
